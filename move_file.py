@@ -2,8 +2,8 @@ import os
 import shutil
 from tqdm import tqdm
 
-src = r'D:\Scalogram\洪健軒\0114_post3\img'
-dest = r'D:\Scalogram\洪健軒\img'
+src = r'D:\Scalogram\0114_post3\img'
+dest = r'D:\Scalogram\img'
 
 classes = os.listdir(src)
 
